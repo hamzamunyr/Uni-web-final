@@ -1,5 +1,3 @@
-Here's a well-structured `README.md` file based on your documentation:
-
 ---
 
 # 📝 Blog Platform
