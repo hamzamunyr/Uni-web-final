@@ -1,5 +1,3 @@
----
-
 # 📝 Blog Platform
 
 A responsive, filterable blog platform built with **React** and powered by a **Strapi** backend.
